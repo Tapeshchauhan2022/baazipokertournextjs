@@ -25,7 +25,7 @@ function Banner() {
               <div className="col-lg-7">
                 <h5 className="text-white">Baazi Poker Tour </h5>
                 <h2 className="text-white">
-                  India's Premier
+                  India&apos;s Premier
                   <br />
                   Live Poker Series{" "}
                 </h2>

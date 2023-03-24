@@ -9,11 +9,8 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Baazi Poker Tour &#8211; Baazi Games</title>
-        <meta
-          name="description"
-          content="Baazi Poker Tour &#8211; Baazi Games"
-        />
+        <title>Baazi Poker Tour - Baazi Games</title>
+        <meta name="description" content="Baazi Poker Tour - Baazi Games" />
       </Head>
       <main>
         <Banner />

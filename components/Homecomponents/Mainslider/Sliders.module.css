@@ -1,0 +1,20 @@
+.homepageslider{ padding: 0 ; }
+.homepageslider .splide__arrow--prev{ left: 10px; }
+.homepageslider .splide__arrow--next{ right: 10px; }
+.homepageslider  .splide__arrow{ border-radius: 0; }
+.homefullbanner { padding:0px;}
+
+
+.mainheads{color: #dd9933; font-size: 20px; line-height: 30px; font-weight: 700; margin: 0 0 15px 0; padding: 0;}
+.mainheads1{color: #000; font-size: 25px; line-height: 30px; font-weight: 700; margin: 0 0 15px 0; padding: 0;}
+@media(min-width: 768px){
+
+  
+  .mainheads{ font-size: 30px; line-height: 40px; margin: 0 0 25px 0; }
+  .mainheads1{color: #000; font-size: 40px; line-height: 45px; font-weight: 700;  padding: 0;}
+  
+  }
+@media(max-width: 992px){
+
+  .homefullbanner { padding:0 70px;}
+  }

@@ -1,0 +1,19 @@
+.mainbanner{ background-repeat: no-repeat; background-position: fixed; background-size: center center; background-attachment: fixed; background-size: cover; }
+.mainbanner .mainbannerinner{min-height: 70vh; background-color: rgba(0, 0, 0, .4);}
+.mainbanner h2{font-size: 35px;    line-height: 50px;    font-weight: 700;}
+.mainheads{color: #dd9933; font-size: 20px; line-height: 30px; font-weight: 700; margin: 0 0 15px 0; padding: 0;}
+.mainheads1{color: #000; font-size: 25px; line-height: 30px; font-weight: 700; margin: 0 0 15px 0; padding: 0;}
+
+@media(min-width: 768px){
+  .mainbanner .mainbannerinner{min-height: 100vh;}
+  .mainbanner h2{font-size: 55px;    line-height: 60px;  }
+  
+
+  }
+  
+  @media(min-width: 992px){
+  
+  }
+  @media(max-width: 992px){
+
+  }
